@@ -1,9 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
-http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=311111
-http://devimages.apple.com/iphone/samples/bipbop/gear2/prog_index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=484444
-http://devimages.apple.com/iphone/samples/bipbop/gear3/prog_index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=737777
-http://devimages.apple.com/iphone/samples/bipbop/gear4/prog_index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=384584,CODECS="avc1.66.21, mp4a.40.2",RESOLUTION=568x320
+http://edge1.everyon.tv/etv1sb/pld7/chunklist.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=350000
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=2,BANDWIDTH=500000
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-2/vnatv573-2.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=3,BANDWIDTH=1000000
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-3/vnatv573-3.m3u8
