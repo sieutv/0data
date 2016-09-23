@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=612267,CODECS="avc1.77.31",RESOLUTION=640x368
+http://wowza.jwplayer.com:1935/live/jelly.stream/chunklist.m3u8

@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=400000
+http://live.cdn.mobifonetv.vn/motv3/nhactrutinh_hls.smil/chunklist_b400000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=600000
+http://live.cdn.mobifonetv.vn/motv3/nhactrutinh_hls.smil/chunklist_b600000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1200000
+http://live.cdn.mobifonetv.vn/motv3/nhactrutinh_hls.smil/chunklist_b1200000.m3u8

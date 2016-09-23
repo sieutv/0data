@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=400000,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=192x144
+http://live.cdn.mobifonetv.vn/motv3/yeah1tv_hls.smil/chunklist_b400000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=600000,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=384x288
+http://live.cdn.mobifonetv.vn/motv3/yeah1tv_hls.smil/chunklist_b600000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=576x432
+http://live.cdn.mobifonetv.vn/motv3/yeah1tv_hls.smil/chunklist_b1200000.m3u8
