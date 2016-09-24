@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=348000,RESOLUTION=480x272,CODECS="avc1.66.30, mp4a.40.2"
+http://codww-vh.akamaihd.net/i/rsi/unrestricted/2016/07/09/,2155896,2155897,.mp4.csmil/index_0_av.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=932000,RESOLUTION=640x360,CODECS="avc1.66.30, mp4a.40.2"
+http://codww-vh.akamaihd.net/i/rsi/unrestricted/2016/07/09/,2155896,2155897,.mp4.csmil/index_1_av.m3u8

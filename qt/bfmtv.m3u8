@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:71821
+#EXTINF:10,
+http://bfmtv-i.akamaihd.net/hls/live/218332/876450610001/bfmtv/20160916T101434-04-71821.ts
+#EXTINF:10,
+http://bfmtv-i.akamaihd.net/hls/live/218332/876450610001/bfmtv/20160916T101434-04-71822.ts
+#EXTINF:10,
+http://bfmtv-i.akamaihd.net/hls/live/218332/876450610001/bfmtv/20160916T101434-04-71823.ts
+#EXTINF:10,
+http://bfmtv-i.akamaihd.net/hls/live/218332/876450610001/bfmtv/20160916T101434-04-71824.ts
+#EXTINF:10,
+http://bfmtv-i.akamaihd.net/hls/live/218332/876450610001/bfmtv/20160916T101434-04-71825.ts
+#EXTINF:10,
+http://bfmtv-i.akamaihd.net/hls/live/218332/876450610001/bfmtv/20160916T101434-04-71826.ts

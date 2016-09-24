@@ -1,0 +1,29 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=282000,RESOLUTION=256x144,CODECS="avc1.77.30, mp4a.40.2"
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_282_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=282000,RESOLUTION=256x144,CODECS="avc1.77.30, mp4a.40.2"
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_282_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=564000,RESOLUTION=512x288,CODECS="avc1.77.30, mp4a.40.2"
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_564_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=564000,RESOLUTION=512x288,CODECS="avc1.77.30, mp4a.40.2"
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_564_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1163000,RESOLUTION=640x360,CODECS="avc1.77.30, mp4a.40.2"
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_1164_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1163000,RESOLUTION=640x360,CODECS="avc1.77.30, mp4a.40.2"
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_1164_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1728000,RESOLUTION=848x480,CODECS="avc1.77.30, mp4a.40.2"
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_1728_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1728000,RESOLUTION=848x480,CODECS="avc1.77.30, mp4a.40.2"
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_1728_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2328000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_2328_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2328000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_2328_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4728000,RESOLUTION=1920x1080,CODECS="avc1.77.30, mp4a.40.2"
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_4728_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4728000,RESOLUTION=1920x1080,CODECS="avc1.77.30, mp4a.40.2"
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_4728_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=42000,CODECS="mp4a.40.2"
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_282_a-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=42000,CODECS="mp4a.40.2"
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_282_a-b.m3u8?sd=10&rebase=on

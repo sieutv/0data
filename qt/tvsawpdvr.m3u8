@@ -1,0 +1,25 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=277000,RESOLUTION=320x180,CODECS="avc1.77.30, mp4a.40.2"
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_150_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=277000,RESOLUTION=320x180,CODECS="avc1.77.30, mp4a.40.2"
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_150_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=362000,RESOLUTION=320x180,CODECS="avc1.77.30, mp4a.40.2"
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_235_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=362000,RESOLUTION=320x180,CODECS="avc1.77.30, mp4a.40.2"
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_235_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=612000,RESOLUTION=480x270,CODECS="avc1.77.30, mp4a.40.2"
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_485_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=612000,RESOLUTION=480x270,CODECS="avc1.77.30, mp4a.40.2"
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_485_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=728000,RESOLUTION=640x360,CODECS="avc1.77.30, mp4a.40.2"
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_600_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=728000,RESOLUTION=640x360,CODECS="avc1.77.30, mp4a.40.2"
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_600_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1097000,RESOLUTION=854x480,CODECS="avc1.77.30, mp4a.40.2"
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_970_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1097000,RESOLUTION=854x480,CODECS="avc1.77.30, mp4a.40.2"
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_970_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=131000,CODECS="mp4a.40.2"
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_150_a-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=131000,CODECS="mp4a.40.2"
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_150_a-b.m3u8?sd=10&rebase=on

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=408000,RESOLUTION=480x270,CODECS="avc1.66.30, mp4a.40.2"
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/index_408_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=408000,RESOLUTION=480x270,CODECS="avc1.66.30, mp4a.40.2"
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/index_408_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1128000,RESOLUTION=640x360,CODECS="avc1.66.30, mp4a.40.2"
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/index_1128_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1128000,RESOLUTION=640x360,CODECS="avc1.66.30, mp4a.40.2"
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/index_1128_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=128000,CODECS="mp4a.40.2"
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/index_408_a-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=128000,CODECS="mp4a.40.2"
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/index_408_a-b.m3u8?sd=10&rebase=on

@@ -1,0 +1,29 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=240000,RESOLUTION=400x224,CODECS="avc1.66.30, mp4a.40.2"
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_240_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=240000,RESOLUTION=400x224,CODECS="avc1.66.30, mp4a.40.2"
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_240_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=440000,RESOLUTION=400x224,CODECS="avc1.66.30, mp4a.40.2"
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_440_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=440000,RESOLUTION=400x224,CODECS="avc1.66.30, mp4a.40.2"
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_440_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=840000,RESOLUTION=640x360,CODECS="avc1.77.30, mp4a.40.2"
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_840_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=840000,RESOLUTION=640x360,CODECS="avc1.77.30, mp4a.40.2"
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_840_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1640000,RESOLUTION=960x540,CODECS="avc1.77.30, mp4a.40.2"
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_1640_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1640000,RESOLUTION=960x540,CODECS="avc1.77.30, mp4a.40.2"
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_1640_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2539000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_2540_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2540000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_2540_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4040000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_4040_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4040000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_4040_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=42000,CODECS="mp4a.40.2"
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_240_a-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=42000,CODECS="mp4a.40.2"
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_240_a-b.m3u8?sd=10&rebase=on

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=763000,RESOLUTION=720x404,CODECS="avc1.77.30, mp4a.40.2"
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=761000,RESOLUTION=720x404,CODECS="avc1.77.30, mp4a.40.2"
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1063000,RESOLUTION=720x404,CODECS="avc1.77.30, mp4a.40.2"
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1061000,RESOLUTION=720x404,CODECS="avc1.77.30, mp4a.40.2"
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1363000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1361000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1763000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1761000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on

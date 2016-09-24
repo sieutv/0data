@@ -1,0 +1,25 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=624000,RESOLUTION=640x360,CODECS="avc1.66.30, mp4a.40.2"
+http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_small_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=624000,RESOLUTION=640x360,CODECS="avc1.66.30, mp4a.40.2"
+http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_small_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=923000,RESOLUTION=640x360,CODECS="avc1.66.30, mp4a.40.2"
+http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_low_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=923000,RESOLUTION=640x360,CODECS="avc1.66.30, mp4a.40.2"
+http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_low_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1499000,RESOLUTION=768x432,CODECS="avc1.77.30, mp4a.40.2"
+http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_med_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1499000,RESOLUTION=768x432,CODECS="avc1.77.30, mp4a.40.2"
+http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_med_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2499000,RESOLUTION=960x540,CODECS="avc1.77.30, mp4a.40.2"
+http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_high_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2499000,RESOLUTION=960x540,CODECS="avc1.77.30, mp4a.40.2"
+http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_high_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3499000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
+http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_ultra_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3499000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
+http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_ultra_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=64000,CODECS="mp4a.40.2"
+http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_small_a-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=64000,CODECS="mp4a.40.2"
+http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_small_a-b.m3u8?sd=10&rebase=on
