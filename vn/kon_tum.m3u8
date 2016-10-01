@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=737777
+http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
