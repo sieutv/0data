@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=928000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1024x576
-http://103.21.148.45:81/icomchannelvtc/smil:vtc9_adb_security.smil/chunklist_b928000_sleng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=628000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=640x480
-http://103.21.148.45:81/icomchannelvtc/smil:vtc9_adb_security.smil/chunklist_b628000_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=700000
+http://113.187.31.44:1935/live/_definst_/smil:vtc9.smil/chunklist_b700000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=900000
+http://113.187.31.44:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8
