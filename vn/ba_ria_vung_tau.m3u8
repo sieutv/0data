@@ -1,2 +1,3 @@
 #EXTM3U
-rtmp://113.163.216.24/live
+#EXT-X-STREAM-INF:BANDWIDTH=707099
+http://210.245.18.144:8081/spsklfl/_definst_/baria.360p.stream/chunklist.m3u8

@@ -1,5 +1,3 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=484444
-http://113.161.220.254/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=737777
-rtmp://113.161.220.254/livepkgr/
+#EXT-X-STREAM-INF:BANDWIDTH=707099
+http://210.245.18.144:8081/spsklfl/_definst_/camau.360p.stream/chunklist.m3u8

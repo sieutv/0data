@@ -1,4 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1252214,CODECS="avc1.100.30,mp4a.40.2",RESOLUTION=785x576
-http://103.21.148.45:81/icomchannelvtc/vtc12_576/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=707099
+http://210.245.18.144:8081/spsklfl/_definst_/vtv2.360p.stream/chunklist.m3u8
