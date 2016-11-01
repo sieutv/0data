@@ -1,3 +1,8 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=707099
-http://210.245.18.144:8081/spsklfl/_definst_/vtv1.360p.stream/chunklist.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=300000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=320x180
+http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b300000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=500000,CODECS="avc1.66.31,mp4a.40.2",RESOLUTION=480x270
+http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b500000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=640x360
+http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8
