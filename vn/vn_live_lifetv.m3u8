@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2429237
+http://203.162.121.230:1935/live/live_lifetv/chunklist.m3u8
