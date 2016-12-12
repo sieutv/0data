@@ -1,7 +1,3 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=300000
-http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b300000.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=500000
-http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b500000.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1200000
-http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=707099
+http://fpt-live.flix.vn/spsklfl/_definst_/mientay.480p.stream/chunklist.m3u8

@@ -1,6 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=700000
-http://45.121.26.49:1935/live/_definst_/smil:vtc11.smil/chunklist_b700000.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=900000
-http://45.121.26.49:1935/live/_definst_/smil:vtc11.smil/chunklist_b900000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=707099
+http://fpt-live.flix.vn/spsklfl/_definst_/vtc11.480p.stream/chunklist.m3u8
